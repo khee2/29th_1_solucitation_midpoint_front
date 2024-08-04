@@ -56,7 +56,7 @@ const MainPage = () => {
       <div style={commonStyles.centerContainer}>
         <IntroDiv onClick={onClick}>
           <Intro>MIDPOINT</Intro>
-          <SubIntro>WHERE TO MEET</SubIntro>
+          <SubIntro>WHERE TO MEET?</SubIntro>
         </IntroDiv>
       </div>
     </BackgroundContainer>
